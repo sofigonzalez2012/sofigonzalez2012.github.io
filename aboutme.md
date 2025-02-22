@@ -4,14 +4,14 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hello!
+I am Sofía González Estrada, a biomedical engineer from Colombia. I am especially interested in data analysis, data science, rehabilitation, assistive technologies, clinical engineering and related fields.
 
 ### Education
-
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- BS in Biomedical engineering at EIA University (2015 - 2019)
+- Master's degree in health data science (2024 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Engineering intern at Holland Bloorview Kids Rehabilitation Hospital (2019)
+- CTO at MATT Movilidad (2020 - 2021)
+- National internal auditor at Sura Colombia (2021 - 2024)
