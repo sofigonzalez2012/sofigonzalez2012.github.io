@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My Bio
-author: Sofia Gonzalez Estrada
+title: Sofía's website
+author: Sofía González Estrada
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -18,6 +18,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
+# Reference: <a href="https://www.flaticon.com/free-icons/telemedicine" title="Telemedicine icons">Telemedicine icons created by justicon - Flaticon</a>
 avatar: "/images/ferran.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -36,16 +37,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranad
+  email: "sofigonzalez2012@gmail.com"
+#  facebook: ferranad
+  github: sofigonzalez2012
+#  twitter: ferranad
+#  youtube: "@ferranad"
+  linkedin: https://www.linkedin.com/in/sofia-gonzalez-estrada/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: sofigonzaleze
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -70,14 +71,15 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  instagram: true
+  email: true
+  github: true
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "sofigonzalez2012.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
