@@ -19,7 +19,7 @@ navbar-links:
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 # Reference: <a href="https://www.flaticon.com/free-icons/telemedicine" title="Telemedicine icons">Telemedicine icons created by justicon - Flaticon</a>
-avatar: "/images/ferran.jpeg"
+avatar: "/images/telemedicine.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
