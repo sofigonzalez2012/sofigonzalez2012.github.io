@@ -5,11 +5,11 @@ subtitle: A brief personal description
 ---
 
 Hello!
-I am Sofía González Estrada, a biomedical engineer from Colombia. I am especially interested in data analysis, data science, rehabilitation, assistive technologies, clinical engineering and related fields.
+I am Sofía González Estrada, a biomedical engineer from Colombia, with a special interest in data analysis, data science, rehabilitation, assistive technologies, clinical engineering and related fields.
 
 ### Education
 - BS in Biomedical engineering at EIA University (2015 - 2019)
-- Master's degree in health data science (2024 - present)
+- Master's degree in health data science at URV University (2024 - present)
 
 ### Experience
 - Engineering intern at Holland Bloorview Kids Rehabilitation Hospital (2019)
